@@ -700,3 +700,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+all,vs,linux,macos,windows,jupyternotebooks
 
+dataset/
